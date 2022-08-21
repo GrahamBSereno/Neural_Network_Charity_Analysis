@@ -3,6 +3,7 @@
 Leverage knowledge of machine learning and neural networks to:
 - Create a binary classifier to predict Alphabet Soup should fund applicants based on future success potential
 - Read in CSV containing data for +34K organizations that were funded by Alphabet Soup and the effectiveness of money spent
+
 Key variables included in the data set which will help us train our model and predict success:
 - IN and NAME—Identification columns
 - APPLICATION_TYPE—Alphabet Soup application type
