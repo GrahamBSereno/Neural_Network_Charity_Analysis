@@ -20,7 +20,7 @@ Key variables included in the data set which will help us train our model and pr
 
 
 ## Summary
-In summary, my model didnt work in totality, so I am demonstrating my ability to:
+In summary, I am demonstrating my ability to:
 - Preprocess Data for the Neural Netowrk
   - The charity_data.csv was successfully read into the application dataframe
   - Counts were created against the variables for binning purposes
